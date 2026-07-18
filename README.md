@@ -85,7 +85,7 @@ components/
 Clonar el repositorio:
 
 ```bash
-git clone https://github.com/edinson629/AirCucuta.git
+git clone https://github.com/edinson629/Air-Cucuta.git
 ```
 
 Entrar al directorio:
